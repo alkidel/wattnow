@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+redirect_from:
+  - /486/trash-talkin-my-visit-to-the-recycling-facility
+title: Trash Talkin! My visit to the recycling facility.
+
+wordpress_id: 486
+wordpress_url: http://wattnow.org/?p=486
+date: '2011-09-26 21:02:08 +0200'
+date_gmt: '2011-09-26 21:02:08 +0200'
+categories:
+- Recycling
+tags: []
+comments: []
+---
+<p>Trash... unites us. &nbsp;It doesn't discriminate. &nbsp;It's something we all have to deal with. &nbsp;We all produce it and we all need to get rid of it. &nbsp;I also believe that there's no dissonance - regardless of your income, race, gender, political party - that we should get rid of municipal trash in the cleanest, swiftest, and most economical way. &nbsp;Could someone really argue that "dirty trash" is just a "scientific theory that has not been proven"? &nbsp;I don't think so.</p>
+<p>This article is a bit different from the others - because I want to share with you my experience visiting a recycling facility and my feelings in general about trash.</p>
+<p><a href="{{ 'assets/from-wordpress/uploads/2011/09/photo-1.jpg' | relative_url }}"><img class="size-large wp-image-489" title="photo 1" src="{{ 'assets/from-wordpress/uploads/2011/09/photo-1-1024x764.jpg' | relative_url }}" alt="" width="640" height="477" /></a></p>
+<p>This past week, I had the seriously amazing opportunity to visit a recycling facility. &nbsp;If you live in Cambridge, MA, you could also have this opportunity. &nbsp;The city organizes monthly visits for residents, so email Cambridge Recycling at <strong>recycle@cambridgema.gov </strong>to sign up!</p>
+<p>Have you ever wondered where your recycling goes after you throw your bottles and cans into your pretty toter? &nbsp;Every city is slightly different in its recycling management (so check your town's website) but my experience will give you the general picture. &nbsp;In Cambridge, since October of last year, the city has implemented the "single stream recycling" approach, also now known as "zero sort recycling". &nbsp;Both mean the same thing - basically that you put everything that is recyclable, paper, cardboard, plastics, metals, and glass, all into the same container for recycling.</p>
+<p>Recycling trucks will then come for pickup 1x/week to bring the materials to the <a href="http://www.casella.com/what-we-do/recycling/zerosort-recycling?utm_source=homepage&amp;utm_medium=feature&amp;utm_content=calloutBlock3&amp;utm_campaign=Zero-Sort%C2%AE%20Recycling">Casella Facility in Charlestown</a>&nbsp;to separate the products and then resell the recycled materials!</p>
+<p><a href="{{ 'assets/from-wordpress/uploads/2011/09/photo-3.jpg' | relative_url }}"><img class="size-large wp-image-492" title="photo 3" src="{{ 'assets/from-wordpress/uploads/2011/09/photo-3-1024x764.jpg' | relative_url }}" alt="" width="640" height="477" /></a></p>
+<p>The facility has very high-tech and sophisticated (and just super cool) technology to separate the various materials. &nbsp;For instance, to separate aluminum cans, eddy currents are used to create a reverse magnetic field and<a href="http://www.cpmfg.com/products-separation-aluminum.html"> repel the aluminum cans away </a>from the conveyor belt. &nbsp; For the plastics, they have a crazy enormous database stored with all commercial plastics and product information, and they use a 60-camera i<a href="http://www.cpmfg.com/products-separation-plastics.html">nfrared sensor system </a>to analyze and classify polymers, fibers, and other characteristics to identify products on a fast-rolling (500ft/minute) conveyor belt. &nbsp;Once the product is identified, an air-jet will launch the item in a specific direction depending on its plastic type (PET, HDPE, PVC, ...). <a href="{{ 'assets/from-wordpress/uploads/2011/09/IMG_24581.mov' | relative_url }}">Check out this video</a>&nbsp;that I took of the sensor system.</p>
+<p>Once the various materials are separated, they are compacted and packaged into "bushels", weighing on the order of 1000 pounds.</p>
+<p></p>
+<p>These "bushels" are then sold to customers. &nbsp;That's right - recycling is a commercial (and quite profitable for that matter) business.</p>
+<p>This experience clearly had a significant impression on me, as I think it would on others ---I believe that if we are brought to clearly understand what happens to our waste, we will act differently. &nbsp;Though recycling is better than throwing things away, it's still an extremely complex process. &nbsp;The best way to divert trash is -- just not to produce it in the first place.</p>
+<p>Of course, we will never completely stop generating waste. &nbsp;But we can behave more responsibly. &nbsp;Visiting a recycling center will definitely help you realize that throwing an empty pizza box in the recycling bin as opposed to the trash bin will make a big difference (that's right, empty pizza boxes are now recyclable in Cambridge).</p>
+<p>Furthermore, I want to give you a bit of recycling economics that I think will make you think twice about how to sort your curbside trash.</p>
+<p>Approximately<a href="http://www.epa.gov/osw/conserve/materials/organics/food/fd-basic.htm"> 60% of your waste is recyclable</a>. &nbsp;Another 20-30% is compostable. &nbsp;If you recycle and compost, you could reduce your waste to 10% of what it is today! &nbsp;"So what?" you may ask. &nbsp;Not only does this mean diverting waste from incinerators and landfills which have significant environmental implications, but it's extremely economical for your city!</p>
+<p>In a nutshell, on one hand, Cambridge pays a tipping fee of about <strong>$90/ton to send waste to the incinerator</strong>. &nbsp;On the other hand, the tipping fee for Casella's<strong> recycling facility is $15/ton</strong>. &nbsp;Moreover, Casella will PAY BACK Cambridge, depending on market prices for the recycled materials. &nbsp;Less waste to the incinerator means more money for the town. &nbsp;A lot more*.</p>
+<p><em>* The city of Cambridge collects over 30,000 tons of waste and recycling per year (this excludes waste which is collected by private haulers). &nbsp;Of the 30,000 tons, 44% is recycling - not bad, Cambridge! &nbsp;Therefore, recycling currently <strong>saves the city almost $1 million per year</strong> in avoided disposal fees. &nbsp;</em><em>If everyone recycled 25% more, <strong>the city would save an additional $315,000 per year</strong>.&nbsp;</em></p>
+<p>So yes, I encourage you to become more in touch with where your waste goes. &nbsp;Call your recycling center. &nbsp;See if you can visit facilities. I know that Cambridge also organizes visits to the incinerator. &nbsp;I'm very excited for that trip. &nbsp;Well, not sure if "excited" is the right word for visiting an incinerator. &nbsp;But I am curious. &nbsp;And I'm sure it will have an added impact on me - and my behavior.</p>
+<p>If you live in the Cambridge area, I also invite you to check out the free&nbsp;<a href="http://www.peabody.harvard.edu/node/151">Trash Talk lectures at Harvard</a>&nbsp;focusing on the anthropology of waste. &nbsp;I attended the<a href="http://www.peabody.harvard.edu/node/722"> "Rags, Bones, and Plastics: Trash in Industrial America"</a>&nbsp;giving a historical overview of trash in America over the past 150 years (basically, trash did not really exist before the Industrial Revolution).</p>
+<p>That's right, it's time to start talkin' trash.</p>
