@@ -31,6 +31,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-seo-tag
 permalink: /:year/:month/:title/
 paginate: 20
 

@@ -72,6 +72,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-paginate
   jekyll-redirect-from
+  jekyll-seo-tag
   minima (~> 2.0)
   tzinfo-data
 
