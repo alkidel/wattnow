@@ -1,7 +1,8 @@
 ---
 layout: post
 status: publish
-published: trueredirect_from:
+published: true
+redirect_from:
   - /2062/3-d-solar-up-to-20x-more-power-than-flat-panels
 
 title: 3-D Solar.  Up to 20x more power than flat panels.
