@@ -1,6 +1,13 @@
 language: ruby
 rvm:
   - 2.5.1
+cache: bundler
+
+before_install:
+  # Install the right version of Bundler
+  # from https://bundler.io/blog/2019/05/14/solutions-for-cant-find-gem-bundler-with-executable-bundle.html
+  - gem install bundler -v "$(grep -A 1 "BUNDLED WITH" Gemfile.lock | tail -n 1)"
+  - bundle config set deployment 'true'
 
 install:
   - make install
