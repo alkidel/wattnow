@@ -11,7 +11,7 @@ wordpress_url: http://alki.delichatsios.com/?p=35
 date: '2011-03-24 23:18:21 +0100'
 date_gmt: '2011-03-24 23:18:21 +0100'
 categories:
-- Nuclear
+- Random Cool
 tags: []
 comments: []
 ---
