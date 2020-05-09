@@ -11,7 +11,7 @@ wordpress_url: http://wattnow.org/?p=626
 date: '2011-10-05 13:46:40 +0200'
 date_gmt: '2011-10-05 13:46:40 +0200'
 categories:
-- Waste Heat
+- Random Cool
 tags: []
 comments:
 - id: 3372

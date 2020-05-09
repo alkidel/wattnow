@@ -11,7 +11,7 @@ wordpress_url: http://wattnow.org/?p=210
 date: '2011-05-17 17:14:03 +0200'
 date_gmt: '2011-05-17 17:14:03 +0200'
 categories:
-- Nuclear
+- Random Cool
 tags: []
 comments: []
 ---
