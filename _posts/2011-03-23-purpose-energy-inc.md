@@ -60,9 +60,9 @@ comments:
   date_gmt: '2012-04-24 14:02:10 +0200'
   content: "[...] Purpose Energy [...]"
 ---
-<p style="text-align: justify;">Reduce waste.&nbsp; Create energy.&nbsp; Cut costs.&nbsp; And finally, make beer.</p>
-<p style="text-align: justify;"><a href="../wp-content/uploads/2011/03/purposeenergy.png"><img title="purposeenergy" src="../wp-content/uploads/2011/03/purposeenergy.png" alt="" width="455" height="217" /></a></p>
-<p style="text-align: justify;"><a href="http://www.purposeenergy.com/purpose.htm">Purpose Energy</a> converts brewery waste (leftover hops, barley, and yeast) using an anaerobic methane digester into biogas used to process the brewery's wastewater.</p>
-<p style="text-align: justify;">The Magic Hat Brewery in Burlington, Vermont was the first brewery to invest in PurposeEnergy's "Biphase Orbicular Biodigester" which began operations in June 2010.</p>
-<p style="text-align: justify;">Very cool.&nbsp; Cheers!</p>
-<p style="text-align: justify;">Read an article describing the process in more detail <a href="http://inhabitat.com/purposeenergys-eric-fitch-turns-beer-brewery-waste-into-clean-burning-bio-fuel/">here</a>.</p>
+<p>Reduce waste.&nbsp; Create energy.&nbsp; Cut costs.&nbsp; And finally, make beer.</p>
+<p><a href="../wp-content/uploads/2011/03/purposeenergy.png"><img title="purposeenergy" src="../wp-content/uploads/2011/03/purposeenergy.png" alt="" width="455" height="217" /></a></p>
+<p><a href="http://www.purposeenergy.com/purpose.htm">Purpose Energy</a> converts brewery waste (leftover hops, barley, and yeast) using an anaerobic methane digester into biogas used to process the brewery's wastewater.</p>
+<p>The Magic Hat Brewery in Burlington, Vermont was the first brewery to invest in PurposeEnergy's "Biphase Orbicular Biodigester" which began operations in June 2010.</p>
+<p>Very cool.&nbsp; Cheers!</p>
+<p>Read an article describing the process in more detail <a href="http://inhabitat.com/purposeenergys-eric-fitch-turns-beer-brewery-waste-into-clean-burning-bio-fuel/">here</a>.</p>

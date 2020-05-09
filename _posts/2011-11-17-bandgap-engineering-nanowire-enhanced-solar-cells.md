@@ -42,18 +42,18 @@ comments:
     &nbsp;1366. &nbsp;Amonix. &nbsp;Konarka. &nbsp;Solaire 2G. &nbsp;Wysips. [...]"
 
 ---
-<p style="text-align: justify;"><a href="http://bandgap.com/index.html">Bandgap Engineering</a>'s innovative nano-silicon<sup>TM</sup>&nbsp;technology combines low-cost processing and increased efficiency for solar PV to be cost-competitive with the grid.</p>
-<p style="text-align: justify;"><a href="http://bandgap.com/index.html"><img title="BandGap_Logo_200" src="{{ 'assets/from-wordpress/uploads/2011/11/BandGap_Logo_200.gif' | relative_url }}" alt="" width="240" height="63" /></a></p>
-<p style="text-align: justify;">Silicon <a href="http://en.wikipedia.org/wiki/Nanowire">nanowires</a>&nbsp;are structures with a diameter on the order of a nanometer (10<sup>-9 </sup>meters). &nbsp;Nano-silicon has several advantages over "bulk" silicon, namely that it can be "tuned" to greatly reduce reflection and increase absorption, two key aspects for increasing <a href="http://bandgap.com/pv.html">solar PV cell efficiency</a>.</p>
-<p style="text-align: justify;">Bandgap's unique <a href="http://bandgap.com/Device-Design.html">device design</a> places a nanowire array on top of a standard <a href="http://science.howstuffworks.com/environmental/energy/solar-cell.htm">P-N junction</a>.</p>
-<div class="mceTemp" style="text-align: justify;">
+<p><a href="http://bandgap.com/index.html">Bandgap Engineering</a>'s innovative nano-silicon<sup>TM</sup>&nbsp;technology combines low-cost processing and increased efficiency for solar PV to be cost-competitive with the grid.</p>
+<p><a href="http://bandgap.com/index.html"><img title="BandGap_Logo_200" src="{{ 'assets/from-wordpress/uploads/2011/11/BandGap_Logo_200.gif' | relative_url }}" alt="" width="240" height="63" /></a></p>
+<p>Silicon <a href="http://en.wikipedia.org/wiki/Nanowire">nanowires</a>&nbsp;are structures with a diameter on the order of a nanometer (10<sup>-9 </sup>meters). &nbsp;Nano-silicon has several advantages over "bulk" silicon, namely that it can be "tuned" to greatly reduce reflection and increase absorption, two key aspects for increasing <a href="http://bandgap.com/pv.html">solar PV cell efficiency</a>.</p>
+<p>Bandgap's unique <a href="http://bandgap.com/Device-Design.html">device design</a> places a nanowire array on top of a standard <a href="http://science.howstuffworks.com/environmental/energy/solar-cell.htm">P-N junction</a>.</p>
+<div class="mceTemp" >
 <dl id="attachment_851" class="wp-caption alignnone" style="width: 460px;">
 <dt class="wp-caption-dt"><a href="http://bandgap.com/Device-Design.html"><img class="size-full wp-image-851" title="bandgap module" src="{{ 'assets/from-wordpress/uploads/2011/11/bandgap-module.jpg' | relative_url }}" alt="" width="450" height="282" /></a></dt>
 <dd class="wp-caption-dd">Bandgap's PV Device Design</dd>
 </dl>
 </div>
-<p style="text-align: justify;">The propriety nano-structuring provides the benefits of nanowires, without a large junction area common in other nanowire solar designs, and allows the option to submerge the front electrical contact, thus increasing incident light ... and reducing manufacturing costs.</p>
-<p style="text-align: justify;">In other words, cheaper, better, and technically, just really cool. &nbsp;They make it look so easy!</p>
-<p style="text-align: justify;">Bandgap is a spinout of research done at Los Alamos and they are currently based in Woburn, MA. &nbsp;They've raised over $7 million in funding and they recently were selected by AlwaysOn as a <a href="http://www.aonetwork.com/AOStory/Announcing-2011-GoingGreen-Global-200-Top-Private-Companies">2011 GoingGreen Global 200 Winner</a>.</p>
-<p style="text-align: justify;">Commercialization of the product is not clear, but I hope as soon as possible.</p>
-<p style="text-align: justify;">We definitely need more companies like Bandgap - a game-changing technology, a clear vision and defined applications (they also hope to use their nano-silicon technology in <a href="http://bandgap.com/battery.html">high-capacity lithium-ion batteries</a>), and smart and passionate people. &nbsp;I saw the co-founder&nbsp;<a href="http://bandgap.com/management.html">Marcie Black</a>, PhD speak the other night, and I can attest that she is both incredibly clever - &nbsp;and really believes in what she's doing.</p>
+<p>The propriety nano-structuring provides the benefits of nanowires, without a large junction area common in other nanowire solar designs, and allows the option to submerge the front electrical contact, thus increasing incident light ... and reducing manufacturing costs.</p>
+<p>In other words, cheaper, better, and technically, just really cool. &nbsp;They make it look so easy!</p>
+<p>Bandgap is a spinout of research done at Los Alamos and they are currently based in Woburn, MA. &nbsp;They've raised over $7 million in funding and they recently were selected by AlwaysOn as a <a href="http://www.aonetwork.com/AOStory/Announcing-2011-GoingGreen-Global-200-Top-Private-Companies">2011 GoingGreen Global 200 Winner</a>.</p>
+<p>Commercialization of the product is not clear, but I hope as soon as possible.</p>
+<p>We definitely need more companies like Bandgap - a game-changing technology, a clear vision and defined applications (they also hope to use their nano-silicon technology in <a href="http://bandgap.com/battery.html">high-capacity lithium-ion batteries</a>), and smart and passionate people. &nbsp;I saw the co-founder&nbsp;<a href="http://bandgap.com/management.html">Marcie Black</a>, PhD speak the other night, and I can attest that she is both incredibly clever - &nbsp;and really believes in what she's doing.</p>

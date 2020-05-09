@@ -56,20 +56,20 @@ comments:
     you [...]"
 
 ---
-<p style="text-align: justify;">Well, in France at least (I will try to find out if it's the same for other places).</p>
-<p style="text-align: justify;">I've only just realized that most of the plastics I "recycle" are actually not recyclable.</p>
-<p style="text-align: justify;">The different types of plastics:</p>
-<p style="text-align: justify;"><a href="{{ 'assets/from-wordpress/uploads/2011/03/F678HWMV7KEZ439AKV.MEDIUM1.gif' | relative_url }}"><img class="alignleft size-full wp-image-57" title="F678HWMV7KEZ439AKV.MEDIUM" src="{{ 'assets/from-wordpress/uploads/2011/03/F678HWMV7KEZ439AKV.MEDIUM1.gif' | relative_url }}" alt="" width="300" height="214" /></a></p>
-<p style="text-align: justify;">In France, plastic types 1 and 2 are recyclable; the rest are not.</p>
-<p style="text-align: justify;"><strong><a href="{{ 'assets/from-wordpress/uploads/2011/03/Types-de-plastiques-utilises-pour-les-emballages1.pdf' | relative_url }}">Here is a description for types of plastics used for packaging</a></strong> (it's in French)</p>
-<p style="text-align: justify;">To sum it up, the only plastic packagings that <strong>are recyclable</strong> (again, I'm talking about France, I'm not sure about elsewhere) are hard density polyethelyne (HDPE) which is used for things like <strong>detergents, shampoo, cleaning products, etc</strong> and polyethylene terephthalate (PET or PETE) which is used for bottles like <strong>water bottles and soda bottles. </strong></p>
-<p style="text-align: justify;"><a href="{{ 'assets/from-wordpress/uploads/2011/03/plastics.png' | relative_url }}"><img title="plastics" src="{{ 'assets/from-wordpress/uploads/2011/03/plastics.png' | relative_url }}" alt="" width="345" height="310" /></a></p>
-<p style="text-align: justify;"><strong>The rest-- plastic film, plastic bags, plastic cups, plastic yogurt containers, plastic containers for cookies, etc. -- IS NOT RECYCLABLE. </strong>Sad, right?&nbsp; I've been "recycling" these items all this time.&nbsp; Well, the fact of the matter is, these materials are just too crappy to recycle.</p>
-<p style="text-align: justify;">So what does that mean?&nbsp; Try as hard as you can to use less.&nbsp; Or none at all.&nbsp; Because they're just going to end up in the dump.</p>
-<p style="text-align: justify;">Some good references for recycling in France:</p>
-<ol style="text-align: justify;">
+<p>Well, in France at least (I will try to find out if it's the same for other places).</p>
+<p>I've only just realized that most of the plastics I "recycle" are actually not recyclable.</p>
+<p>The different types of plastics:</p>
+<p><a href="{{ 'assets/from-wordpress/uploads/2011/03/F678HWMV7KEZ439AKV.MEDIUM1.gif' | relative_url }}"><img class="alignleft size-full wp-image-57" title="F678HWMV7KEZ439AKV.MEDIUM" src="{{ 'assets/from-wordpress/uploads/2011/03/F678HWMV7KEZ439AKV.MEDIUM1.gif' | relative_url }}" alt="" width="300" height="214" /></a></p>
+<p>In France, plastic types 1 and 2 are recyclable; the rest are not.</p>
+<p><strong><a href="{{ 'assets/from-wordpress/uploads/2011/03/Types-de-plastiques-utilises-pour-les-emballages1.pdf' | relative_url }}">Here is a description for types of plastics used for packaging</a></strong> (it's in French)</p>
+<p>To sum it up, the only plastic packagings that <strong>are recyclable</strong> (again, I'm talking about France, I'm not sure about elsewhere) are hard density polyethelyne (HDPE) which is used for things like <strong>detergents, shampoo, cleaning products, etc</strong> and polyethylene terephthalate (PET or PETE) which is used for bottles like <strong>water bottles and soda bottles. </strong></p>
+<p><a href="{{ 'assets/from-wordpress/uploads/2011/03/plastics.png' | relative_url }}"><img title="plastics" src="{{ 'assets/from-wordpress/uploads/2011/03/plastics.png' | relative_url }}" alt="" width="345" height="310" /></a></p>
+<p><strong>The rest-- plastic film, plastic bags, plastic cups, plastic yogurt containers, plastic containers for cookies, etc. -- IS NOT RECYCLABLE. </strong>Sad, right?&nbsp; I've been "recycling" these items all this time.&nbsp; Well, the fact of the matter is, these materials are just too crappy to recycle.</p>
+<p>So what does that mean?&nbsp; Try as hard as you can to use less.&nbsp; Or none at all.&nbsp; Because they're just going to end up in the dump.</p>
+<p>Some good references for recycling in France:</p>
+<ol >
 <li>If you have an iPhone, download <a href="http://itunes.apple.com/fr/app/triez-facile/id391759899?mt=8"><strong>TRIEZ FACILE</strong></a>.&nbsp; It's a quick guide to what's recyclable or not, and what to do for certain products (such as electronics, batteries, lamps, etc).</li>
 <li>This simplified cheat sheet explains what goes in the<strong> </strong><strong><a href="{{ 'assets/from-wordpress/uploads/2011/03/pages-du-memo-du-tri-pour-le-bac-vert-et-les-bacs.pdf' | relative_url }}">BAC JAUNE</a></strong></li>
 <li>If you live in Paris, this website <a href="http://www.paris.fr/pratique/environnement/ordures-menageres-tri/p5430"><strong>ORDURES MENAGERES, TRI</strong></a> by the City of Paris is great.</li>
 </ol>
-<p style="text-align: justify;">I will definitely write some more posts about recycling (including composting, and a review of "The Story of Stuff", a really good reference to "stuff" in general, where it comes from, how we consume it, and how it is disposed...).&nbsp; There's still so much to learn!</p>
+<p>I will definitely write some more posts about recycling (including composting, and a review of "The Story of Stuff", a really good reference to "stuff" in general, where it comes from, how we consume it, and how it is disposed...).&nbsp; There's still so much to learn!</p>

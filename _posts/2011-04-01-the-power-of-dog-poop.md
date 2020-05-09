@@ -60,11 +60,11 @@ comments:
   content: "[...] digesters (processing organic waste to produce methane as fuel),
     as we&#8217;ve seen with Purpose, Park Spark, Sanergy, and [...]"
 ---
-<p style="text-align: justify;"><a href="http://parksparkproject.com/home.html">The Park Spark Project </a>was started by conceptual artist Matthew Mazzotta interested in exploring the relationship between people and their environment.</p>
-<p style="text-align: justify;">The concept is simple and beautiful (...though maybe a bit stinky): convert dog poop into usable methane gas to power a lamp (or other uses -- they're open to ideas!) using an anaerobic methane digester.&nbsp; This principle is similar to that of <a title="Purpose Energy, Inc." href="http://alki.delichatsios.com/?p=27">Purpose Energy, Inc, </a>which I wrote about last week, which converts brewery waste into usable energy also using a methane digester.</p>
-<p style="text-align: justify;">The site does a good job of <a href="http://parksparkproject.com/artwork/1206505.html">explaining in a really simple way </a>how it works, and why burning methane is better than just releasing it into the environment directly (as what happens when organic waste is disposed in a landfill).</p>
-<p style="text-align: justify;"><a href="http://parksparkproject.com/home.html"><img class=" wp-image-81 alignnone" title="splash" src="{{ 'assets/from-wordpress/uploads/2011/04/splash.jpg' | relative_url }}" alt="" width="448" height="332" /></a><em><br />
+<p><a href="http://parksparkproject.com/home.html">The Park Spark Project </a>was started by conceptual artist Matthew Mazzotta interested in exploring the relationship between people and their environment.</p>
+<p>The concept is simple and beautiful (...though maybe a bit stinky): convert dog poop into usable methane gas to power a lamp (or other uses -- they're open to ideas!) using an anaerobic methane digester.&nbsp; This principle is similar to that of <a title="Purpose Energy, Inc." href="http://alki.delichatsios.com/?p=27">Purpose Energy, Inc, </a>which I wrote about last week, which converts brewery waste into usable energy also using a methane digester.</p>
+<p>The site does a good job of <a href="http://parksparkproject.com/artwork/1206505.html">explaining in a really simple way </a>how it works, and why burning methane is better than just releasing it into the environment directly (as what happens when organic waste is disposed in a landfill).</p>
+<p><a href="http://parksparkproject.com/home.html"><img class=" wp-image-81 alignnone" title="splash" src="{{ 'assets/from-wordpress/uploads/2011/04/splash.jpg' | relative_url }}" alt="" width="448" height="332" /></a><em><br />
 </em></p>
-<p style="text-align: justify;">&nbsp;The project is based in Cambridge, MA.</p>
-<p style="text-align: justify;">Thanks Mick for the tip.</p>
-<p style="text-align: justify;">
+<p>&nbsp;The project is based in Cambridge, MA.</p>
+<p>Thanks Mick for the tip.</p>
+<p>

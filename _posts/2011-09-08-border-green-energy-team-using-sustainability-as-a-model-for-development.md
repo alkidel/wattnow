@@ -26,16 +26,16 @@ comments:
     Networks, [...]"
 
 ---
-<p style="text-align: justify;">The <a href="http://www.bget.org/">Border Green Energy Team </a>(BGET) was founded in 2005 and brings renewable energy and sustainable technologies to refugee, minority, and rural communities along the<strong> Thailand-Burma border</strong>.</p>
-<p style="text-align: justify;"><a href="http://www.bget.org/"><img title="Screen shot 2011-09-08 at 3.41.40 PM" src="{{ 'assets/from-wordpress/uploads/2011/09/Screen-shot-2011-09-08-at-3.41.40-PM1.png' | relative_url }}" alt="" width="441" height="87" /></a></p>
-<p style="text-align: justify;">BGET has three focus areas:</p>
-<ul style="text-align: justify;">
+<p>The <a href="http://www.bget.org/">Border Green Energy Team </a>(BGET) was founded in 2005 and brings renewable energy and sustainable technologies to refugee, minority, and rural communities along the<strong> Thailand-Burma border</strong>.</p>
+<p><a href="http://www.bget.org/"><img title="Screen shot 2011-09-08 at 3.41.40 PM" src="{{ 'assets/from-wordpress/uploads/2011/09/Screen-shot-2011-09-08-at-3.41.40-PM1.png' | relative_url }}" alt="" width="441" height="87" /></a></p>
+<p>BGET has three focus areas:</p>
+<ul >
 <li><span style="text-decoration: underline;">Renewable energy and appropriate technology</span></li>
 <li><span style="text-decoration: underline;">Technical education and capacity building</span></li>
 <li><span style="text-decoration: underline;">Sustainability in rural development</span></li>
 </ul>
-<p style="text-align: justify;">BGET teams work on energy (solar, micro-hydro, and bio-gas) and water (pumps and purification systems) projects, and educate and train refugees with the systems to create a local, sustainable, and empowered community.</p>
-<p style="text-align: justify;"><a href="http://www.bget.org/"><img class="size-full wp-image-371 alignnone" title="Screen shot 2011-09-08 at 3.43.58 PM" src="{{ 'assets/from-wordpress/uploads/2011/09/Screen-shot-2011-09-08-at-3.43.58-PM.png' | relative_url }}" alt="" width="910" height="199" /></a></p>
-<p style="text-align: justify;">BGET has quite a <a href="http://www.bget.org/about-the-team/background/">successful record after only six years</a>, including constructing and operating <strong>7 micro-hydro systems</strong> and <strong>training over 300 Karen village leaders</strong> on Solar Home Systems (SHS) repair and maintenance.</p>
-<p style="text-align: justify;">You can get involved by <a href="http://www.bget.org/how-to-help/volunteering/">donating or volunteering</a>!</p>
-<p style="text-align: justify;">Six months in Thailand, working on solar panels and teaching excited students - sounds awesome to me.</p>
+<p>BGET teams work on energy (solar, micro-hydro, and bio-gas) and water (pumps and purification systems) projects, and educate and train refugees with the systems to create a local, sustainable, and empowered community.</p>
+<p><a href="http://www.bget.org/"><img class="size-full wp-image-371 alignnone" title="Screen shot 2011-09-08 at 3.43.58 PM" src="{{ 'assets/from-wordpress/uploads/2011/09/Screen-shot-2011-09-08-at-3.43.58-PM.png' | relative_url }}" alt="" width="910" height="199" /></a></p>
+<p>BGET has quite a <a href="http://www.bget.org/about-the-team/background/">successful record after only six years</a>, including constructing and operating <strong>7 micro-hydro systems</strong> and <strong>training over 300 Karen village leaders</strong> on Solar Home Systems (SHS) repair and maintenance.</p>
+<p>You can get involved by <a href="http://www.bget.org/how-to-help/volunteering/">donating or volunteering</a>!</p>
+<p>Six months in Thailand, working on solar panels and teaching excited students - sounds awesome to me.</p>
