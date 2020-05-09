@@ -50,16 +50,16 @@ comments:
     Place. &nbsp;A123. [...]"
 
 ---
-<p style="text-align: justify;"><a href="http://www.a123systems.com/">A123</a>, an MIT spinoff with headquarters in Watertown, MA, produces advanced Nanophosphate<sup>&reg;</sup>&nbsp;lithium ion batteries for transportation, grid, and commercial applications.</p>
-<p style="text-align: justify;"><a href="{{ 'assets/from-wordpress/uploads/2011/11/a123.jpg' | relative_url }}"><img title="a123" src="{{ 'assets/from-wordpress/uploads/2011/11/a123.jpg' | relative_url }}" alt="" width="200" height="189" /></a></p>
-<p style="text-align: justify;"><a href="http://www.a123systems.com/technology-core.htm">A123's core technology</a> is designed to be longer-life, more efficient, more durable, and safer than existing generation batteries (lead-acid, sodium-sulfur, nickel-cadmium...).</p>
-<p style="text-align: justify;">A123 products have already penetrated the electric vehicle (EV) market and expect to grow in this field in particular with GM and a new entrant <a href="http://www.fiskerautomotive.com/en-us">Fisker</a>. &nbsp;This is fantastic and all --&nbsp;but what really excites me are A123's storage solutions for grid applications.</p>
-<p style="text-align: justify;">Las week, Laurel Mountain, a 98 MW wind farm in West Virginia opened ... with <a href="http://www.nytimes.com/2011/10/29/science/earth/batteries-on-a-wind-farm-help-control-power-output.html?_r=3">1.3 million of A123's batteries</a>&nbsp;!</p>
-<p style="text-align: justify;">Energy storage as we all know, is a big issue, especially for intermittent energy sources like wind and solar.</p>
-<p style="text-align: justify;">For instance, winds blow stronger at night, when demand is low, and often don't blow at all during the day, when we need energy the most! Ideally, we'd like to store the energy produced at night to be used the following day.</p>
-<p style="text-align: justify;">But the A123 storage system is not designed for this "long-term" storage -- the batteries are tiny, only C and D in size!</p>
-<p style="text-align: justify;">Instead, the storage system resolves intermittency issues on a much smaller scale --- and when I say small, I mean minutes.</p>
-<p style="text-align: justify;">Apparently, even in the span of an hour, the output of the wind farm could vary from <a href="http://www.nytimes.com/2011/10/29/science/earth/batteries-on-a-wind-farm-help-control-power-output.html?_r=3">98 MW to zero</a>, and up to 40% within couple minute intervals.</p>
-<p style="text-align: justify;">The A123 battery system helps smooth out those "kinks" in order to have a more efficient grid utilization, and essentially make more money.</p>
-<p style="text-align: justify;">Pretty fascinating huh? &nbsp;We should follow the operations of the wind farm to see if the A123 battery system is performing as expected (and returning on the <a href="http://www.nytimes.com/2011/10/29/science/earth/batteries-on-a-wind-farm-help-control-power-output.html?_r=3">$25M investment</a>!).</p>
-<p style="text-align: justify;">I'm excited for A123 - I hope things keep going ... and going ... and going ...</p>
+<p><a href="http://www.a123systems.com/">A123</a>, an MIT spinoff with headquarters in Watertown, MA, produces advanced Nanophosphate<sup>&reg;</sup>&nbsp;lithium ion batteries for transportation, grid, and commercial applications.</p>
+<p><a href="{{ 'assets/from-wordpress/uploads/2011/11/a123.jpg' | relative_url }}"><img title="a123" src="{{ 'assets/from-wordpress/uploads/2011/11/a123.jpg' | relative_url }}" alt="" width="200" height="189" /></a></p>
+<p><a href="http://www.a123systems.com/technology-core.htm">A123's core technology</a> is designed to be longer-life, more efficient, more durable, and safer than existing generation batteries (lead-acid, sodium-sulfur, nickel-cadmium...).</p>
+<p>A123 products have already penetrated the electric vehicle (EV) market and expect to grow in this field in particular with GM and a new entrant <a href="http://www.fiskerautomotive.com/en-us">Fisker</a>. &nbsp;This is fantastic and all --&nbsp;but what really excites me are A123's storage solutions for grid applications.</p>
+<p>Las week, Laurel Mountain, a 98 MW wind farm in West Virginia opened ... with <a href="http://www.nytimes.com/2011/10/29/science/earth/batteries-on-a-wind-farm-help-control-power-output.html?_r=3">1.3 million of A123's batteries</a>&nbsp;!</p>
+<p>Energy storage as we all know, is a big issue, especially for intermittent energy sources like wind and solar.</p>
+<p>For instance, winds blow stronger at night, when demand is low, and often don't blow at all during the day, when we need energy the most! Ideally, we'd like to store the energy produced at night to be used the following day.</p>
+<p>But the A123 storage system is not designed for this "long-term" storage -- the batteries are tiny, only C and D in size!</p>
+<p>Instead, the storage system resolves intermittency issues on a much smaller scale --- and when I say small, I mean minutes.</p>
+<p>Apparently, even in the span of an hour, the output of the wind farm could vary from <a href="http://www.nytimes.com/2011/10/29/science/earth/batteries-on-a-wind-farm-help-control-power-output.html?_r=3">98 MW to zero</a>, and up to 40% within couple minute intervals.</p>
+<p>The A123 battery system helps smooth out those "kinks" in order to have a more efficient grid utilization, and essentially make more money.</p>
+<p>Pretty fascinating huh? &nbsp;We should follow the operations of the wind farm to see if the A123 battery system is performing as expected (and returning on the <a href="http://www.nytimes.com/2011/10/29/science/earth/batteries-on-a-wind-farm-help-control-power-output.html?_r=3">$25M investment</a>!).</p>
+<p>I'm excited for A123 - I hope things keep going ... and going ... and going ...</p>

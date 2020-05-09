@@ -58,14 +58,14 @@ comments:
     [...]"
 
 ---
-<p style="text-align: justify;">Eradicating Energy Poverty in Haiti.</p>
-<p style="text-align: justify;"><a href="{{ 'assets/from-wordpress/uploads/2011/04/earthspark.png' | relative_url }}"><img class="size-full wp-image-119 alignnone" title="earthspark" src="{{ 'assets/from-wordpress/uploads/2011/04/earthspark.png' | relative_url }}" alt="" width="532" height="239" /></a></p>
-<p style="text-align: justify;">
-<p style="text-align: justify;">Here is how <a href="http://www.earthsparkinternational.org/what.html">EarthSpark International</a> poses the "issue":</p>
-<p style="text-align: justify;"><em>"Poor households and small businesses in developing countries pay a lot for low quality fuels even though inexpensive, high-quality substitutes are being produced by companies around the world."</em></p>
-<p style="text-align: justify;">And I like their approach to finding solutions.&nbsp; Basically, EarthSpark <a href="http://www.earthsparkinternational.org/what.html">works at three levels</a>, local, country level, and internationally, with the main objective of working with communities "to provide access to clean energy technologies that make sense for their needs".&nbsp; On the country and international levels, they work with entrepreneurs and organizations to develop country-scale supply chains and the best energy technologies.</p>
-<p style="text-align: justify;">And their local level approach, which I especially like, is composed of "clean energy stores", a sort of hub for not only providing energy services and products (like LED lamps, efficient stoves, ...) , but also creating a space for the local community to learn and be trained in using and building more complex energy systems (installing solar panels, building efficient stoves, producing charcoal from alternative sources, ...).</p>
-<p style="text-align: justify;">They have opened a clean energy store in Les Anglais, a small coastal town in the southwestern part of Haiti, with the aim to provide solar lighting to 100% of the population.</p>
-<p style="text-align: justify;">Read their explanation of their <a href="http://www.earthsparkinternational.org/what.html">model</a> - it's better than mine.&nbsp; :)</p>
-<p style="text-align: justify;">I will explore more to see how effective EarthSpark is, but overall, I find that their holistic yet clearly-defined approach could lead to very interesting solutions.</p>
-<p style="text-align: justify;">They have a <a href="http://earthsparkinternational.org/blog/">blog</a> too!!</p>
+<p>Eradicating Energy Poverty in Haiti.</p>
+<p><a href="{{ 'assets/from-wordpress/uploads/2011/04/earthspark.png' | relative_url }}"><img class="size-full wp-image-119 alignnone" title="earthspark" src="{{ 'assets/from-wordpress/uploads/2011/04/earthspark.png' | relative_url }}" alt="" width="532" height="239" /></a></p>
+<p>
+<p>Here is how <a href="http://www.earthsparkinternational.org/what.html">EarthSpark International</a> poses the "issue":</p>
+<p><em>"Poor households and small businesses in developing countries pay a lot for low quality fuels even though inexpensive, high-quality substitutes are being produced by companies around the world."</em></p>
+<p>And I like their approach to finding solutions.&nbsp; Basically, EarthSpark <a href="http://www.earthsparkinternational.org/what.html">works at three levels</a>, local, country level, and internationally, with the main objective of working with communities "to provide access to clean energy technologies that make sense for their needs".&nbsp; On the country and international levels, they work with entrepreneurs and organizations to develop country-scale supply chains and the best energy technologies.</p>
+<p>And their local level approach, which I especially like, is composed of "clean energy stores", a sort of hub for not only providing energy services and products (like LED lamps, efficient stoves, ...) , but also creating a space for the local community to learn and be trained in using and building more complex energy systems (installing solar panels, building efficient stoves, producing charcoal from alternative sources, ...).</p>
+<p>They have opened a clean energy store in Les Anglais, a small coastal town in the southwestern part of Haiti, with the aim to provide solar lighting to 100% of the population.</p>
+<p>Read their explanation of their <a href="http://www.earthsparkinternational.org/what.html">model</a> - it's better than mine.&nbsp; :)</p>
+<p>I will explore more to see how effective EarthSpark is, but overall, I find that their holistic yet clearly-defined approach could lead to very interesting solutions.</p>
+<p>They have a <a href="http://earthsparkinternational.org/blog/">blog</a> too!!</p>
