@@ -69,10 +69,10 @@ comments:
     to believe, are they sustainable without PTC/ITC or REC's?
 
 ---
-<p style="text-align: justify;"><a href="http://www.altaerosenergies.com/">Altaeros Energies</a>, based in Cambridge, MA,&nbsp;is&nbsp;developing airborne wind turbines (AWT).</p>
-<p style="text-align: justify;">Why "airborne" ? &nbsp;The wind turbines are sent to higher heights using blimp-like technology, where winds are stronger and more stable.</p>
-<p style="text-align: justify;"><a href="../wp-content/uploads/2011/04/altaeros.png"><img title="altaeros" src="../wp-content/uploads/2011/04/altaeros.png" alt="" width="471" height="130" /></a></p>
-<p style="text-align: justify;">Though little information is provided on the website, here is a photo of the first Altaeros AWT prototype:</p>
-<p style="text-align: justify;"><a href="http://www.greentechmedia.com/articles/read/honeywells-take-on-wind-turbines-and-the-flying-donut-from-mit/"><img class="size-full wp-image-97 alignnone" title="airborne_wind_alteros" src="{{ 'assets/from-wordpress/uploads/2011/04/airborne_wind_alteros.jpg' | relative_url }}" alt="" width="347" height="260" /></a></p>
-<p style="text-align: justify;">Awesome concept. &nbsp;But two (maybe stupid) questions: 1) how is the wind energy converted into electricity, and 2) how do we distribute the electricity from the AWT to where it will be consumed (ie. the ground)?</p>
-<p style="text-align: justify;">* Response from Altaeros: "The power is transmitted to the ground using a conductive cable, similar to those used to power radar systems lifted by tethered balloons called aerostats". &nbsp;Thank you!</p>
+<p><a href="http://www.altaerosenergies.com/">Altaeros Energies</a>, based in Cambridge, MA,&nbsp;is&nbsp;developing airborne wind turbines (AWT).</p>
+<p>Why "airborne" ? &nbsp;The wind turbines are sent to higher heights using blimp-like technology, where winds are stronger and more stable.</p>
+<p><a href="../wp-content/uploads/2011/04/altaeros.png"><img title="altaeros" src="../wp-content/uploads/2011/04/altaeros.png" alt="" width="471" height="130" /></a></p>
+<p>Though little information is provided on the website, here is a photo of the first Altaeros AWT prototype:</p>
+<p><a href="http://www.greentechmedia.com/articles/read/honeywells-take-on-wind-turbines-and-the-flying-donut-from-mit/"><img class="size-full wp-image-97 alignnone" title="airborne_wind_alteros" src="{{ 'assets/from-wordpress/uploads/2011/04/airborne_wind_alteros.jpg' | relative_url }}" alt="" width="347" height="260" /></a></p>
+<p>Awesome concept. &nbsp;But two (maybe stupid) questions: 1) how is the wind energy converted into electricity, and 2) how do we distribute the electricity from the AWT to where it will be consumed (ie. the ground)?</p>
+<p>* Response from Altaeros: "The power is transmitted to the ground using a conductive cable, similar to those used to power radar systems lifted by tethered balloons called aerostats". &nbsp;Thank you!</p>
